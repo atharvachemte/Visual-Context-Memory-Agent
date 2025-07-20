@@ -24,5 +24,5 @@ The system processes any uploaded image and automatically classifies it into one
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/atharvachemte/visual-agent2.git
+git clone https://github.com/atharvachemte/Visual-Context-Memory-Agent.git
 cd visual-agent2
